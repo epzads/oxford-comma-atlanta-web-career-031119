@@ -11,6 +11,10 @@ return array.join( " and ")
 else if array.length == 3
   
 return array[0] + ", "  + array[1] + ","+ " and " + array[2] 
+else 
+  
+
+
 end
 end
 end
