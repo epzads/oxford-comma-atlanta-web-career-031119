@@ -13,7 +13,7 @@ else if array.length == 3
 return array[0] + ", "  + array[1] + ","+ " and " + array[2] 
 else 
   
-return array.
+return array.to_sentence
 
 end
 end
