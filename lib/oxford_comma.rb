@@ -6,6 +6,7 @@ return array.join
 
 else if array.length == 2 
 return array.join( " and ")
-return 
+#return 
 end
-
+end
+end
